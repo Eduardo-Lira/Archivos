@@ -1,0 +1,86 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Fri May  8 15:19:57 2020
+#
+# User preference: *
+#
+# CONSTRAINT:  where (pl_facility like 'Transiting Exoplanet Survey Satellite (TESS)')
+#
+# COLUMN pl_hostname:    Host Name
+# COLUMN pl_letter:      Planet Letter
+# COLUMN pl_name:        Planet Name
+# COLUMN pl_discmethod:  Discovery Method
+# COLUMN pl_pnum:        Number of Planets in System
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au])
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_orbincl:     Inclination [deg]
+# COLUMN pl_bmassj:      Planet Mass or M*sin(i) [Jupiter mass]
+# COLUMN pl_bmassprov:   Planet Mass or M*sin(i) Provenance
+# COLUMN pl_radj:        Planet Radius [Jupiter radii]
+# COLUMN pl_dens:        Planet Density [g/cm**3]
+# COLUMN pl_ttvflag:     TTV Flag
+# COLUMN pl_kepflag:     Kepler Field Flag
+# COLUMN pl_k2flag:      K2 Mission Flag
+# COLUMN pl_nnotes:      Number of Notes
+# COLUMN ra_str:         RA [sexagesimal]
+# COLUMN ra:             RA [decimal degrees]
+# COLUMN dec_str:        Dec [sexagesimal]
+# COLUMN dec:            Dec [decimal degrees]
+# COLUMN st_dist:        Distance [pc]
+# COLUMN gaia_dist:      Gaia Distance [pc]
+# COLUMN st_optmag:      Optical Magnitude [mag]
+# COLUMN st_optband:     Optical Magnitude Band
+# COLUMN gaia_gmag:      G-band (Gaia) [mag]
+# COLUMN st_teff:        Effective Temperature [K]
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_rad:         Stellar Radius [Solar radii]
+# COLUMN rowupdate:      Date of Last Update
+# COLUMN pl_facility:    Discovery Facility
+#
+pl_hostname,pl_letter,pl_name,pl_discmethod,pl_pnum,pl_orbper,pl_orbsmax,pl_orbeccen,pl_orbincl,pl_bmassj,pl_bmassprov,pl_radj,pl_dens,pl_ttvflag,pl_kepflag,pl_k2flag,pl_nnotes,ra_str,ra,dec_str,dec,st_dist,gaia_dist,st_optmag,st_optband,gaia_gmag,st_teff,st_mass,st_rad,rowupdate,pl_facility
+DS Tuc A,b,DS Tuc A b,Transit,1,8.13826800,,0.000000,89.500,,,0.509,,0,0,0,1,23h39m39.48s,354.914490,-69d11m44.7s,-69.195747,44.12,44.12,8.469,V (Johnson),8.319,5428.00,1.01,0.96,2019-07-11,Transiting Exoplanet Survey Satellite (TESS)
+GJ 1252,b,GJ 1252 b,Transit,1,0.51823490,0.009160,0.000000,85.000,0.00658,Mass,0.106,,0,0,0,0,20h27m42.06s,306.925235,-56d27m25.2s,-56.456990,20.38,20.38,12.193,V (Johnson),11.236,3458.00,0.38,0.39,2020-02-13,Transiting Exoplanet Survey Satellite (TESS)
+GJ 143,b,GJ 143 b,Transit,2,35.61253000,0.191500,0.188000,89.330,0.07142,Mass,0.233,7.00000,0,0,0,1,03h26m59.22s,51.746769,-63d29m56.8s,-63.499100,16.33,16.33,7.870,V (Johnson),7.679,4640.00,0.73,0.69,2019-04-25,Transiting Exoplanet Survey Satellite (TESS)
+GJ 357,b,GJ 357 b,Transit,3,3.93072000,0.035000,,89.120,0.00579,Mass,0.109,5.60000,0,0,0,0,09h36m01.64s,144.006821,-21d39m38.9s,-21.660797,9.44,9.44,10.920,V (Johnson),9.880,3505.00,0.34,0.34,2019-08-15,Transiting Exoplanet Survey Satellite (TESS)
+HD 1397,b,HD 1397 b,Transit,1,11.53533000,0.109700,0.251000,88.990,0.41500,Mass,1.026,0.47700,0,0,0,1,00h17m47.15s,4.446472,-66d21m32.1s,-66.358910,79.75,79.75,7.781,V (Johnson),7.593,5521.00,1.32,2.34,2019-07-25,Transiting Exoplanet Survey Satellite (TESS)
+HD 15337,b,HD 15337 b,Transit,2,4.75615000,0.052200,0.090000,88.500,0.02363,Mass,0.146,9.30000,0,0,0,1,02h27m28.38s,36.868240,-27d38m06.7s,-27.635206,44.87,44.87,9.088,V (Johnson),8.856,5125.00,0.90,0.86,2019-05-16,Transiting Exoplanet Survey Satellite (TESS)
+HD 15337,c,HD 15337 c,Transit,2,17.17840000,0.126800,0.050000,88.500,0.02552,Mass,0.213,3.23000,0,0,0,1,02h27m28.38s,36.868240,-27d38m06.7s,-27.635206,44.87,44.87,9.088,V (Johnson),8.856,5125.00,0.90,0.86,2019-05-16,Transiting Exoplanet Survey Satellite (TESS)
+HD 202772 A,b,HD 202772 A b,Transit,1,3.30895800,0.052080,0.038000,84.510,1.01700,Mass,1.545,0.34300,0,0,0,0,21h18m47.901s,319.699588,-26d36m58.95s,-26.616375,147.20,162.19,,,8.227,6272.00,1.72,2.59,2019-01-31,Transiting Exoplanet Survey Satellite (TESS)
+HD 213885,b,HD 213885 b,Transit,2,1.00803500,0.020120,0.000000,80.090,0.02778,Mass,0.156,9.15000,0,0,0,0,22h35m56.32s,338.984650,-59d51m52.1s,-59.864468,47.97,48.16,7.996,V (Johnson),7.802,5978.00,1.07,1.10,2019-12-05,Transiting Exoplanet Survey Satellite (TESS)
+GJ 143,c,HD 21749 c,Transit,2,7.78993000,0.069500,,88.900,0.01164,Mass,0.080,31.93000,0,0,0,0,03h26m59.22s,51.746769,-63d29m56.8s,-63.499100,16.33,16.33,7.870,V (Johnson),7.679,4640.00,0.73,0.69,2019-04-25,Transiting Exoplanet Survey Satellite (TESS)
+HD 219666,b,HD 219666 b,Transit,1,6.03607000,0.063560,0.000000,86.380,0.05223,Mass,0.420,0.87000,0,0,0,0,23h18m13.630s,349.556792,-56d54m13.630s,-56.903786,94.43,94.43,,,9.650,5527.00,0.92,1.03,2019-03-05,Transiting Exoplanet Survey Satellite (TESS)
+HD 221416,b,HD 221416 b,Transit,1,14.27670000,0.122800,0.115000,85.750,0.19000,Mass,0.836,0.43100,0,0,0,0,23h32m08.07s,353.033630,-21d48m05.1s,-21.801424,95.08,95.80,8.146,V (Johnson),7.908,5080.00,1.21,2.94,2019-04-18,Transiting Exoplanet Survey Satellite (TESS)
+HD 23472,b,HD 23472 b,Transit,2,17.66700000,0.121000,0.000000,,0.05638,Mass,,,0,0,0,0,03h41m50.40s,55.459988,-62d46m01.5s,-62.767075,39.08,39.08,9.724,V (Johnson),9.385,,0.75,0.73,2019-02-14,Transiting Exoplanet Survey Satellite (TESS)
+HD 23472,c,HD 23472 c,Transit,2,29.62500000,0.170000,0.000000,,0.05405,Mass,,,0,0,0,0,03h41m50.40s,55.459988,-62d46m01.5s,-62.767075,39.08,39.08,9.724,V (Johnson),9.385,,0.75,0.73,2019-02-14,Transiting Exoplanet Survey Satellite (TESS)
+HD 2685,b,HD 2685 b,Transit,1,4.12688000,0.056800,0.091000,89.252,1.17000,Mass,1.440,,0,0,0,0,00h29m18.95s,7.328958,-76d18m14.62s,-76.304061,197.98,197.98,,,9.520,6801.00,1.43,1.56,2019-10-24,Transiting Exoplanet Survey Satellite (TESS)
+HR 858,b,HR 858 b,Transit,3,3.58599000,0.048000,0.300000,85.500,,,0.186,,0,0,0,0,02h51m56.25s,42.984360,-30d48m52.3s,-30.814520,31.99,31.99,6.400,V (Johnson),6.248,6201.00,1.15,1.31,2019-07-25,Transiting Exoplanet Survey Satellite (TESS)
+HR 858,c,HR 858 c,Transit,3,5.97293000,0.067400,0.190000,86.230,,,0.173,,0,0,0,0,02h51m56.25s,42.984360,-30d48m52.3s,-30.814520,31.99,31.99,6.400,V (Johnson),6.248,6201.00,1.15,1.31,2019-07-25,Transiting Exoplanet Survey Satellite (TESS)
+HR 858,d,HR 858 d,Transit,3,11.23000000,0.102700,0.280000,87.430,,,0.193,,0,0,0,0,02h51m56.25s,42.984360,-30d48m52.3s,-30.814520,31.99,31.99,6.400,V (Johnson),6.248,6201.00,1.15,1.31,2019-07-25,Transiting Exoplanet Survey Satellite (TESS)
+L 168-9,b,L 168-9 b,Transit,1,1.40150000,0.020910,0.210000,85.500,0.01447,Mass,0.124,9.60000,0,0,0,0,23h20m07.53s,350.031372,-60d03m54.7s,-60.065182,25.17,25.17,11.014,V (Johnson),10.232,3800.00,0.62,0.60,2020-02-13,Transiting Exoplanet Survey Satellite (TESS)
+L 98-59,b,L 98-59 b,Transit,3,2.25310000,0.022820,0.120000,,0.00318,Mass,0.071,12.70000,0,0,0,0,08h18m07.62s,124.531750,-68d18m46.80s,-68.313000,10.62,10.62,11.685,V (Johnson),10.598,3412.00,0.31,0.31,2020-04-16,Transiting Exoplanet Survey Satellite (TESS)
+L 98-59,c,L 98-59 c,Transit,3,3.69040000,0.031700,0.070000,,0.00761,Mass,0.120,5.40000,0,0,0,0,08h18m07.62s,124.531750,-68d18m46.80s,-68.313000,10.62,10.62,11.685,V (Johnson),10.598,3412.00,0.31,0.31,2020-04-16,Transiting Exoplanet Survey Satellite (TESS)
+L 98-59,d,L 98-59 d,Transit,3,7.45120000,0.050600,0.090000,,0.00727,Mass,0.140,3.30000,0,0,0,0,08h18m07.62s,124.531750,-68d18m46.80s,-68.313000,10.62,10.62,11.685,V (Johnson),10.598,3412.00,0.31,0.31,2020-04-16,Transiting Exoplanet Survey Satellite (TESS)
+LHS 1815,b,LHS 1815 b,Transit,1,3.81433000,0.040400,0.000000,88.125,0.02737,Mass,0.097,,0,0,0,0,06h04m20.36s,91.084816,-55d18m46.8s,-55.313011,29.87,29.87,12.150,V (Johnson),11.236,3643.00,0.50,0.50,2020-03-19,Transiting Exoplanet Survey Satellite (TESS)
+LHS 3844,b,LHS 3844 b,Transit,1,0.46292913,0.006220,,88.500,,,0.116,,0,0,0,0,22h41m58.10s,340.492104,-69d10m08.4s,-69.168986,14.90,14.89,15.260,V (Johnson),13.393,3036.00,0.15,0.19,2019-01-24,Transiting Exoplanet Survey Satellite (TESS)
+LP 791-18,b,LP 791-18 b,Transit,2,0.94800500,0.009690,0.000000,87.300,,,0.100,,0,0,0,0,11h02m45.96s,165.691500,-16d24m22.29s,-16.406192,26.49,26.51,16.900,V (Johnson),15.072,2960.00,0.14,0.17,2019-11-07,Transiting Exoplanet Survey Satellite (TESS)
+LP 791-18,c,LP 791-18 c,Transit,2,4.98996300,0.029392,0.000000,89.550,,,0.206,,0,0,0,0,11h02m45.96s,165.691500,-16d24m22.29s,-16.406192,26.49,26.51,16.900,V (Johnson),15.072,2960.00,0.14,0.17,2019-11-07,Transiting Exoplanet Survey Satellite (TESS)
+LTT 1445 A,b,LTT 1445 A b,Transit,1,5.35882000,0.038070,0.190000,89.400,0.00692,Mass,0.123,4.40000,0,0,0,0,03h01m51.39s,45.464111,-16d35m36.1s,-16.593372,6.87,6.87,11.220,V (Johnson),10.047,3337.00,0.26,0.28,2019-08-15,Transiting Exoplanet Survey Satellite (TESS)
+TOI-1130,b,TOI-1130 b,Transit,2,4.06649900,0.043940,0.220000,87.980,,,0.326,,0,0,0,0,19h05m30.24s,286.376000,-41d26m15.49s,-41.437636,58.36,58.36,11.368,V (Johnson),10.903,4250.00,0.68,0.69,2020-04-02,Transiting Exoplanet Survey Satellite (TESS)
+TOI-1130,c,TOI-1130 c,Transit,2,8.35038100,0.070980,0.047000,87.430,0.97400,Mass,1.500,0.38000,0,0,0,0,19h05m30.24s,286.376000,-41d26m15.49s,-41.437636,58.36,58.36,11.368,V (Johnson),10.903,4250.00,0.68,0.69,2020-04-02,Transiting Exoplanet Survey Satellite (TESS)
+TOI-125,b,TOI-125 b,Transit,3,4.65382000,0.051860,0.194000,88.920,0.02989,Mass,0.243,2.57000,0,0,0,0,01h34m22.735s,23.594729,-66d40m32.95s,-66.675819,111.40,111.41,10.892,V (Johnson),10.718,5320.00,0.86,0.85,2020-02-13,Transiting Exoplanet Survey Satellite (TESS)
+TOI-125,c,TOI-125 c,Transit,3,9.15059000,0.081400,0.066000,88.540,0.02086,Mass,0.246,1.73000,0,0,0,0,01h34m22.735s,23.594729,-66d40m32.95s,-66.675819,111.40,111.41,10.892,V (Johnson),10.718,5320.00,0.86,0.85,2020-02-13,Transiting Exoplanet Survey Satellite (TESS)
+TOI-125,d,TOI-125 d,Transit,3,19.98000000,0.137000,0.168000,88.795,0.04279,Mass,0.261,2.98000,0,0,0,0,01h34m22.735s,23.594729,-66d40m32.95s,-66.675819,111.40,111.41,10.892,V (Johnson),10.718,5320.00,0.86,0.85,2020-02-13,Transiting Exoplanet Survey Satellite (TESS)
+TOI-132,b,TOI-132 b,Transit,1,2.10970190,0.026000,0.059000,85.030,0.07048,Mass,0.305,3.08000,0,0,0,1,22h33m35.8683s,338.399451,-43d26m11.9167s,-43.436644,164.47,164.45,,,11.321,5397.00,0.97,0.90,2020-02-27,Transiting Exoplanet Survey Satellite (TESS)
+TOI-150,b,TOI-150.01,Transit,1,5.85748700,0.070370,0.262000,88.090,2.51000,Mass,1.255,1.68000,0,0,0,0,07h31m51.76s,112.965667,-73d36m22.15s,-73.606153,336.00,339.56,,,11.341,6255.00,1.35,1.53,2019-11-07,Transiting Exoplanet Survey Satellite (TESS)
+TOI-163,b,TOI-163 b,Transit,1,4.23130600,0.058000,0.000000,87.240,1.22000,Mass,1.489,0.49000,0,0,0,0,05h19m04.3s,79.767917,-71d53m43.9s,-71.895528,416.50,416.50,,,11.219,6495.00,1.44,1.65,2019-11-07,Transiting Exoplanet Survey Satellite (TESS)
+TOI-172,b,TOI-172 b,Transit,1,9.47725000,0.091400,0.380600,88.200,5.42000,Mass,0.965,7.53000,0,0,0,0,21h06m31.65s,316.631875,-26d41m34.29s,-26.692858,336.47,346.02,,,11.193,5645.00,1.13,1.78,2019-03-28,Transiting Exoplanet Survey Satellite (TESS)
+TOI-216,c,TOI-216.01,Transit,2,34.55600000,0.206900,0.029000,89.830,0.62927,Mass,1.007,0.76000,1,0,0,0,04h55m55.25s,73.980208,-63d15m36.2s,-63.260056,178.84,178.86,12.324,V (Johnson),12.163,5026.00,0.87,0.84,2019-05-09,Transiting Exoplanet Survey Satellite (TESS)
+TOI-216,b,TOI-216.02,Transit,2,17.08900000,0.129300,0.132000,88.364,0.09439,Mass,0.686,0.34000,1,0,0,0,04h55m55.25s,73.980208,-63d15m36.2s,-63.260056,178.84,178.86,12.324,V (Johnson),12.163,5026.00,0.87,0.84,2019-05-09,Transiting Exoplanet Survey Satellite (TESS)
+TOI-270,b,TOI-270 b,Transit,3,3.36008000,0.030600,0.000000,88.650,,,0.111,,0,0,0,1,04h33m39.72s,68.415500,-51d57m22.44s,-51.956233,22.45,22.49,12.620,V (Johnson),11.631,3386.00,0.40,0.38,2019-08-01,Transiting Exoplanet Survey Satellite (TESS)
+TOI-270,c,TOI-270 c,Transit,3,5.66017200,0.047200,0.000000,89.530,,,0.216,,0,0,0,1,04h33m39.72s,68.415500,-51d57m22.44s,-51.956233,22.45,22.49,12.620,V (Johnson),11.631,3386.00,0.40,0.38,2019-08-01,Transiting Exoplanet Survey Satellite (TESS)
+TOI-270,d,TOI-270 d,Transit,3,11.38014000,0.073300,0.000000,89.690,,,0.190,,0,0,0,1,04h33m39.72s,68.415500,-51d57m22.44s,-51.956233,22.45,22.49,12.620,V (Johnson),11.631,3386.00,0.40,0.38,2019-08-01,Transiting Exoplanet Survey Satellite (TESS)
+TOI-677,b,TOI-677 b,Transit,1,11.23660000,0.103800,0.435000,87.630,1.23600,Mass,1.170,,0,0,0,0,09h36m28.65s,144.119375,-50d27m47.14s,-50.463094,142.39,142.39,9.800,V (Johnson),9.661,6295.00,1.18,1.28,2020-05-07,Transiting Exoplanet Survey Satellite (TESS)
+TOI-813,b,TOI-813 b,Transit,1,83.89110000,0.423000,0.000000,89.640,,,0.599,,0,0,0,0,04h50m46.57s,72.694042,-60d54m19.62s,-60.905450,265.15,265.15,10.322,V (Johnson),10.235,5907.00,1.32,1.94,2020-01-30,Transiting Exoplanet Survey Satellite (TESS)
+WASP-126,c,WASP-126 c,Transit Timing Variations,2,7.63000000,,0.050000,85.500,0.20199,Mass,,,0,0,0,0,04h13m29.73s,63.373865,-69d13m36.5s,-69.226807,234.00,217.89,10.800,V (Johnson),11.066,5800.00,1.12,1.27,2019-12-05,Transiting Exoplanet Survey Satellite (TESS)
+WASP-18,c,WASP-18 c,Transit Timing Variations,2,2.15580000,0.035000,0.015000,,0.17368,Mass,,,0,0,0,0,01h37m25.03s,24.354311,-45d40m40.4s,-45.677887,123.92,123.92,9.303,V (Johnson),9.166,6400.00,1.22,1.23,2019-12-05,Transiting Exoplanet Survey Satellite (TESS)
+HD 39091,c,pi Men c,Transit,2,6.26790000,0.068390,0.000000,87.456,0.01517,Mass,0.182,2.97000,0,0,0,1,05h37m09.89s,84.291214,-80d28m08.8s,-80.469124,18.28,18.28,5.670,V (Johnson),5.491,6037.00,1.09,1.10,2018-11-15,Transiting Exoplanet Survey Satellite (TESS)
